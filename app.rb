@@ -15,7 +15,9 @@ get '/team' do
   @sg = params[:pg] 
   @pf = params[:pg] 
   @sf = params[:pg]
-  @c = params[:pg] 
+  @c = params[:pg]
+  
+end
 
 
 
